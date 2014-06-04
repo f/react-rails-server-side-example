@@ -1,0 +1,6 @@
+{
+  "name": "react-test",
+  "dependencies": {
+    "react": "~0.10.0"
+  }
+}
